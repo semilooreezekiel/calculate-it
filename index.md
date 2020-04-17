@@ -1,3 +1,1 @@
-# Welcome to my Calculator- The calculate it.
-
 I'm glad you are here. I plan to talk about ...
